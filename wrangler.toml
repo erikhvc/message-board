@@ -1,5 +1,0 @@
-###D1 database
-[[ d1_databases ]]
-binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "message-board"
-database_id = "7b228220-dafd-4833-98e9-d58333744228"
